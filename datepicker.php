@@ -11,11 +11,11 @@
 
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 
-    <script type="text/javascript" src="./js/php-date-formatter.js"></script>
+    <script type="text/javascript" src="./php-date-formatter.js"></script>
 
-    <script type="text/javascript" src="./js/jquery.datetimepicker.js"></script>
+    <script type="text/javascript" src="./jquery.datetimepicker.js"></script>
 
-    <link rel="stylesheet" href="./css/jquery.datetimepicker.css" />
+    <link rel="stylesheet" href="./jquery.datetimepicker.css" />
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 
